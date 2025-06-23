@@ -1,7 +1,4 @@
-# OSCP-Preparation-Labs
-OSCP-style walkthroughs from my home lab using Kali, Metasploitable2, Ubuntu, and Windows machines.
-
-# 🎯 OSCP-Prep Labs
+# 🎯 OSCP-Preparation-Labs
 
 This repository contains **step-by-step attack walkthroughs** and **privilege escalation techniques** performed in my local ethical hacking lab using:
 - 🖥️ Kali Linux
